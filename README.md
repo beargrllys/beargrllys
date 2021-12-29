@@ -1,11 +1,3 @@
----
-title: 윤지상
-layout: home
-author: Tao He
-date: 2019-04-27
-category: Jekyll
----
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=YunJiSang's%20Github&fontSize=70)
 
 ### Welcome to BearGrllys's Github. My name is Yun Jisang. I work in startup as Unity developer. And I'm studying Cyber-Pysical & Virtual reality 
