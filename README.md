@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=YunJiSang's%20Github&fontSize=70)
 
 ### I am a junior game/content developer. More than 5 system developments using game engines were carried out. Solve the challenges you face to achieve your goals.
-### 주니어 게임/콘텐츠 개발자로 게임엔진을 활용한 시스템 개발을 5건이상 수행했습니다. 목표를 달성하기 위해 대면한 문제를 끝까지 해결합니다.
+### 주니어 게임/콘텐츠 개발자로 게임엔진을 활용한 시스템 개발을 5건이상 수행했습니다. 
+### 목표를 달성하기 위해 대면한 문제를 끝까지 해결합니다.
 
 ---
 <h2 style="text-align: center"> Tech stack </h2>
