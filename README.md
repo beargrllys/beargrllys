@@ -6,6 +6,7 @@
 ---
 <h2 style="text-align: center"> Tech stack </h2>
 <center>
+  
 | 이름 | 속성 | 사용 사례 |
 | --- | --- | --- |
 | Unity | 개발도구 | Unity 기반의 콘텐츠 프로젝트 6건 이상 수행. XR 콘텐츠 경험 다수 |
@@ -18,6 +19,7 @@
 | MariaDB | 데이터베이스 | 기본적인 CRUD 응용 쿼리 작성 가능 / Docker 기반 운영 경험 |
 | MongoDB | 데이터베이스 | 다중 Json 데이터 저장 및 서버 배포 및 운영 가능 |
 | Docker | 인프라 | 사내 서버 운영 책임자 경험, Docker-compose, Docker file 작성 가능 |
+  
 </center>
 
 ---
