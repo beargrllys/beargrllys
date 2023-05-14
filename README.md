@@ -31,26 +31,11 @@
 |---|:---:|
 | `KakaoTalk` | yjs7744 |
 | `E-mail` | js_7744@naver.com |
-| `Instagram` | js774433 |
+| `Tistory` | [티스토리 링크](https://diy-multitab.tistory.com/) |
 | `Resume` | [이력서 링크](https://multitabresume.oopy.io/) |
 | `Portfolio` | [포트폴리오 링크](https://multitabportfolio.oopy.io/) |
 
 </center>
-
----
-
-<h2 style="text-align: center"> My repo </h2>
-
-| Name | Intro | link |
-|---|:---:|:---:|
-| `TIL` | `간간히 쓰는 일기` | https://github.com/beargrllys/TIL |
-
-If you want to see detail about me, visit my blog : 
-
-Github Blog : https://beargrllys.github.io/
-
-Tistory : https://diy-multitab.tistory.com/
-
 
 ---
 
