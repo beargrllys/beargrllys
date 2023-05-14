@@ -6,11 +6,18 @@
 ---
 <h2 style="text-align: center"> Tech stack </h2>
 <center>
-<img src="https://img.shields.io/badge/Unity-3766AB?style=flat-square&logo=Unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unreal-3766AB?style=flat-square&logo=UnrealEngine&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C++&logoColor=white"/>
-
+| 이름 | 속성 | 사용 사례 |
+| --- | --- | --- |
+| Unity | 개발도구 | Unity 기반의 콘텐츠 프로젝트 6건 이상 수행. XR 콘텐츠 경험 다수 |
+| Unreal | 개발도구 | 레벨디자인 , 캐릭터 프로젝트 수행경험 / BP, C++ 소단위 기능 구현 경험 3회  |
+| C# | 언어 | Unity 기반 C# 언어 프로그래밍 경험 6회 이상 |
+| C++ | 언어 | 전자 모듈 펌웨어 개발 경험, Unreal, 소켓 프로그래밍 경험 2회 |
+| C | 언어 | 비트맵 이미지 프로세싱 프로그래밍 경험, 포인터 알고리즘 구현 가능 |
+| Go | 언어 | 백앤드 웹 API 구현 경험, 시스템 서버 프로그래밍 가능 |
+| TypeScript | 언어 | NestJS 기반 백앤드 웹서버 구축 경험 |
+| MariaDB | 데이터베이스 | 기본적인 CRUD 응용 쿼리 작성 가능 / Docker 기반 운영 경험 |
+| MongoDB | 데이터베이스 | 다중 Json 데이터 저장 및 서버 배포 및 운영 가능 |
+| Docker | 인프라 | 사내 서버 운영 책임자 경험, Docker-compose, Docker file 작성 가능 |
 </center>
 
 ---
